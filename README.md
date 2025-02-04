@@ -1,8 +1,9 @@
 # Project Overview
 
-Name: Willie Hernandez
-Email: williehernandezr@gmail.com
-Cellphone: +49 152 215 64771
+Name: Willie
+
+Email: willie...@gmail.com
+Cellphone: +49 152 ...
 
 This project consists of two main components:
 
